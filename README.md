@@ -55,3 +55,8 @@ How to work arround the error
 -----------
 
 In MemberRepository.loadMembers() replace TypedQuery by Query as commented there.
+
+Why does the project have such a strange name?
+-----------
+
+It is just a little wordplay :)
